@@ -1,5 +1,8 @@
 # Telegram Chatbot
 
+## Telegram chatbot access information
+- Deployed telegram account : *@DACP_THEIA_HARITZTYA_BOT*
+
 This is developed as one of [Algoritma Academy](https://algorit.ma/) Data Analytics Specialization Capstone Projects. The deliverable of this project is a Python script to create a Telegram chatbot using `telebot` package. We will also deploy the chatbot to [Heroku](https://herokuapp.com/) and use `Flask` to set up the backend application.
 
 ## Rubrics
